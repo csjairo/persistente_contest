@@ -1,3 +1,5 @@
+# Questão 02: Trabalhando com Pandas, verificar se Pandas está importado no ambiente virtual.
+
 import pandas as pd
 
 def run_question_02():
