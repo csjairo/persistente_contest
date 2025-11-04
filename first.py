@@ -1,4 +1,4 @@
-# Quest�o 01: Processamento de Arquivo de Texto
+# Questão 01: Processamento de Arquivos de Texto, rodar as funções de setup antes de executar o código.
 def setup_question_01():
     file_content = """Ana Silva#Engenharia#8.5
 Carlos Souza#Direito#7.2
